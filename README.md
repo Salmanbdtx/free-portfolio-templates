@@ -12,19 +12,19 @@ This repository provides three ready-to-use portfolio templates that you can cus
 
 Elegant, spacious, and organized - perfect for a professional first impression.
 
-![Template 1 Preview](./public/template1.png)
+![Template 1 Preview](./public/screenshots/template1.png)
 
 ### Template 2: Minimalist Brutalist
 
 Stark, typography-focused design with bold structure and clean lines.
 
-![Template 2 Preview](./public/template2.png)
+![Template 2 Preview](./public/screenshots/template2.png)
 
 ### Template 3: Elegant & Soft
 
 Soft pastels, rounded corners, and delicate interactions for a refined feel.
 
-![Template 3 Preview](./public/template3.png)
+![Template 3 Preview](./public/screenshots/template3.png)
 
 ## Features
 
